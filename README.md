@@ -20,7 +20,7 @@ I'm a second-year at the **University of Washington Seattle** studying Informati
 
 - 🔭 Currently building: **25 portfolio projects** targeting SWE, Data Analysis & Data Science roles
 - 🌱 Every project ships — no toy demos, no synthetic data
-- ⚡ Fun fact: *[add something real here — a hobby, a quirk, something that makes you sound human]*
+- ⚡ My side projects have users. That's the bar I set for myself.
 - 📍 Seattle, WA
 - 📬 Reach me at: [preiyalt@uw.edu](mailto:preiyalt@uw.edu) · [LinkedIn](https://linkedin.com/in/preiyalthakkar) · [Portfolio](https://preiyalthakkarportfolio.netlify.app)
 
